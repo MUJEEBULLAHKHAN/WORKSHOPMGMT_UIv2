@@ -1,0 +1,13 @@
+{
+  "Users": "Users",
+
+  //Login
+  "Intro": "Sign in to your account to continue",
+  "Workshop": "Workshop",
+  "User": "User",
+  "Owner": "Owner",
+  "EmailAdd": "Email address",
+  "Password": "Password",
+  "Continue": "Continue",
+  "SelectLang": "Select Language"
+}
